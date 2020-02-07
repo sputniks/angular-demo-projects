@@ -1,0 +1,9 @@
+*.log
+.DS_Store
+angular-businessdashboard-new/node_modules/
+angular-fitnesstracker-new/node_modules/
+angular-orderdetails-new/node_modules/
+
+angular-hero/node_modules/
+angular-my-store/node_modules/
+angular-bootstrap-demo-master/node_modules/
